@@ -1,0 +1,21 @@
+header{
+    background-color: lightpink;
+    height: 200px;
+    border: 3px solid black;
+ text-align: center;
+}
+#i1{ margin-top: 20px;
+}
+#i2{
+    margin-left: 700px;
+    color: red;
+}
+nav{
+    background-color: whitesmoke;
+
+} a {
+    margin-right: 40px;
+}
+footer{
+    background-color: whitesmoke;
+}
